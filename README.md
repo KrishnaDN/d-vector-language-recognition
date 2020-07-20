@@ -21,3 +21,6 @@ For any queries contact : krishnadn94@gmail.com
 ##### 1. GENERALIZED END-TO-END LOSS FOR SPEAKER VERIFICATION.[\[Paper\]](https://arxiv.org/pdf/1710.10467.pdf)
 ##### 2. RawNet: Advanced end-to-end deep neural network using raw waveformsfor text-independent speaker verification.[\[Paper\]](https://arxiv.org/pdf/1904.08104.pdf)
 ##### 3. Language Independent Gender Identification from Raw Waveform Using Multi-Scale Convolutional Neural Networks.[\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9054738)
+
+ Credits: G2E loss funtion code is taken from https://github.com/HarryVolek/PyTorch_Speaker_Verification
+ 
